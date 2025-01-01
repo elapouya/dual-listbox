@@ -1,18 +1,9 @@
-[![Build Status](https://travis-ci.org/maykinmedia/dual-listbox.svg?branch=master)](https://travis-ci.org/maykinmedia/dual-listbox)
-[![Coverage Status](https://coveralls.io/repos/github/maykinmedia/dual-listbox/badge.svg?branch=master)](https://coveralls.io/github/maykinmedia/dual-listbox?branch=master)
-[![Code Climate](https://codeclimate.com/github/maykinmedia/dual-listbox/badges/gpa.svg)](https://codeclimate.com/github/maykinmedia/dual-listbox)
-[![Lintly](https://lintly.com/gh/maykinmedia/dual-listbox/badge.svg)](https://lintly.com/gh/maykinmedia/dual-listbox/)
-[![npm](https://img.shields.io/npm/dw/dual-listbox.svg)](https://github.com/maykinmedia/dual-listbox)
-[![Known Vulnerabilities](https://snyk.io/test/github/maykinmedia/dual-listbox/badge.svg)](https://snyk.io/test/github/maykinmedia/dual-listbox)
-[![BCH compliance](https://bettercodehub.com/edge/badge/maykinmedia/dual-listbox?branch=master)](https://bettercodehub.com/)
-
-[![NPM](https://nodei.co/npm/dual-listbox.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/dual-listbox/)
-
 # Fixes and improvements
-> Add multiple items selection and move
-> Add filter reset button
-> Fix the filtering that was disappearing after item moves
-> Fix move-all to move only filtered items
+
+* Add multiple items selection and move
+* Add filter reset button
+* Fix the filtering that was disappearing after item moves
+* Fix move-all to move only filtered items
 
 # Dual Listbox
 
