@@ -8,8 +8,11 @@
 
 [![NPM](https://nodei.co/npm/dual-listbox.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/dual-listbox/)
 
-# Changes
-> Solves the duplicate option rendering problem, as mentioned in this issue https://github.com/maykinmedia/dual-listbox/issues/63
+# Fixes and improvements
+> Add multiple items selection and move
+> Add filter reset button
+> Fix the filtering that was disappearing after item moves
+> Fix move-all to move only filtered items
 
 # Dual Listbox
 
